@@ -1,0 +1,9 @@
+register Dr.Lee
+register Dr.Chen
+admit Dr.Lee MarkLiu
+admit Dr.Lee MarkLiuLiu
+admit Dr.Lu MarkLiuLiuLiu
+treat Dr.Lee MarkLiu 2005-12-10 06:00
+treat Dr.Chen MarkLiuLiu 2017/10/12 16:00
+treat Dr.Chen MarkLiuLiuLiu 2017/10/12 16:00
+show
